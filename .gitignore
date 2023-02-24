@@ -1,0 +1,5 @@
+.pytest_cache/
+geckodriver.log
+__pycache__/
+*.py[cod]
+*$py.class
