@@ -2,7 +2,7 @@ import time
 
 import pytest
 import allure
-from pages.order_page import OrderPage
+from pages.order_page.py import OrderPage
 from conftest import ORDERS, LINK_DZEN, LINK_BASE_PAGE, TEXT_ORDER_IS_DONE
 
 
